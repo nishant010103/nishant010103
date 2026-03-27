@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data Analyst with skills in Excel, SQL, and Power BI. <br>Passionate about data visualization and deriving insights to support business decisions.<br> Currently seeking a fresher opportunity to start my career in analytics.
+Aspiring Data Analyst with skills in Excel, SQL, Python and Power BI. <br>Passionate about data visualization and deriving insights to support business decisions.<br> Currently seeking a fresher opportunity to start my career in analytics.
 
 
 ## 🌐 Socials:
