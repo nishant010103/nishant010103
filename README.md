@@ -1,5 +1,24 @@
 # 💫 About Me:
-I am an aspiring Data Analyst with hands-on experience in Excel, SQL, Python, and Power BI. I enjoy transforming raw data into meaningful insights through data cleaning, exploratory data analysis (EDA), and interactive dashboard development.<br><br>I have worked on multiple analytics projects including sales analysis, finance dashboards, hospitality analytics, and crime data visualization using tools like Pandas, Plotly, MySQL, and Power BI. My focus is on solving business problems with data-driven decision-making and creating visually impactful reports.<br><br>Currently pursuing professional training in Data Analytics, I am continuously improving my analytical, visualization, and problem-solving skills while actively seeking opportunities to contribute to a dynamic organization.
+I turn messy datasets into clear, actionable business insights.
+
+I'm a Data Analyst based in New Delhi with hands-on experience building end-to-end analytics solutions across insurance, banking, sales, hospitality, and operations domains — covering data cleaning, ETL pipeline design, SQL query development, KPI computation, and interactive dashboard development.
+
+🔧 My toolkit: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) | SQL (MySQL) | Power BI (DAX, Power Query) | Advanced Excel
+
+📊 What I've built — 9+ end-to-end portfolio projects on GitHub:
+→ Insurance Analytics Dashboard — 45,000-row dataset, 3 Power BI dashboards covering Policy, Claims, and Risk & Fraud Intelligence
+→ Bank Loan Analysis Dashboard — 38,576-row dataset, $435.7M funded amount analyzed, 3-page Power BI dashboard
+→ Pizza Sales Analytics — 48,000+ order records, KPI dashboard with top/bottom-5 product performance
+→ Company Sales, Finance, Hospitality, Crime Data & Call Centre dashboards using Python and Power BI
+
+🎓 Completed the Deloitte Australia Data Analytics Job Simulation (Forage) — forensic data analysis, dashboarding, and client-ready reporting.
+
+I don't just clean data — I ask the right questions, build the right visuals, and tell the story behind the numbers.
+
+Currently seeking full-time Data Analyst or internship opportunities in Delhi NCR (Delhi, Gurugram, Noida). If you're hiring or want to collaborate — let's connect!
+
+📩 nishant030101@gmail.com
+💻 github.com/nishant010103
 
 
 ## 🌐 Socials:
